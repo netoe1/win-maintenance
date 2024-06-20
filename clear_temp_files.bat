@@ -1,3 +1,4 @@
+rem You must run this file as admin!
 @echo off
 cls
 
